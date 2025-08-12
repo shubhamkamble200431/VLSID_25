@@ -150,6 +150,3 @@ VLSID_25/
 - Shubham Kamble
 - Chaitanya Singh
 
-## License
-
-[Add appropriate license information]
