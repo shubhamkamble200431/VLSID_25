@@ -109,7 +109,7 @@ The wide range of data in the dataset, ranging from 1 to e(-14), presents a uniq
 VLSID_25/
 ├── models/           # Trained model files
 ├── data/            # Dataset and preprocessing scripts
-├── hardware/        # FPGA design files and IP cores
+├── preprocessing/       #Contains all preprocessing scripts and methods
 ├── software/        # Software implementation and testing
 ├── results/         # Training curves, confusion matrices, and performance metrics
 └── docs/           # Documentation and references
