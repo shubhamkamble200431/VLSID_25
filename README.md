@@ -63,8 +63,8 @@ The CNN model consists of the following layers:
 - **Test Accuracy**: 73.00%
 - **Test Loss**: 33.37%
 
-![Training Curves](training_curves.png)
-![Confusion Matrix](confusion_matrix.png)
+![Training Curves](results/training_curve.png)
+![Confusion Matrix](results/cm.png)
 
 ## Model Quantization
 
