@@ -148,7 +148,7 @@ VLSID_25/
 ## Contributors
 
 - Shubham Kamble
-- [Add other contributors]
+- Chaitanya Singh
 
 ## License
 
